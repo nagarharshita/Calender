@@ -1,3 +1,1 @@
-# demo
-Learning git
-Author: Harshita 
+This is a basic Python implementation of CALENDER
